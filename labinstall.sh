@@ -1,4 +1,5 @@
 #!/bin/bash
+#varsion 1.0
 sudo apt-get install apache2
 sudo apt-get install git
 sudo chmod -R 777 /var/www/html
